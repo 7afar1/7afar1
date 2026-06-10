@@ -1,17 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0ea5e9,45:2563eb,100:7c3aed&text=Senior%20AI%20Full-Stack%20Developer&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=42&desc=Building%20clean,%20scalable,%20AI-powered%20products&descAlign=50&descAlignY=60&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7C3AED&height=180&section=header&text=Senior%20AI%20Full-Stack%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+clean%2C+scalable%2C+AI-powered+web+applications;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+AWS;Frontend+craftsmanship+%2B+backend+architecture" alt="Typing SVG" />
 
 <br />
 
-<img src="https://img.shields.io/badge/Profile%20Views-10K%2B-0ea5e9?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full%20Stack%20%7C%20DevOps-7c3aed?style=for-the-badge&labelColor=111827" />
-<img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-22c55e?style=for-the-badge&labelColor=111827" />
+<img src="https://komarev.com/ghpvc/?username=7afar1&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full--Stack-7c3aed?style=flat-square" alt="Focus badge" />
+<img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-22c55e?style=flat-square" alt="Open to remote roles" />
 
-<br />
-<br />
-
-<code>React</code> • <code>Next.js</code> • <code>TypeScript</code> • <code>Node.js</code> • <code>AWS</code> • <code>PostgreSQL</code> • <code>AI Workflows</code>
+</div>
 
 </div>
 
@@ -190,12 +189,10 @@ Cloud-native deployment with AWS, serverless architecture, Docker, and CI/CD.
 <br />
 <br />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7afar1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=7afar1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8](https://img.shields.io/badge/Focus-AI%20%2B%20Full--Stack-7c3aed?style=flat-square)" />
 
 <br />
 <br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=7afar1&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -244,7 +241,12 @@ Cloud-native deployment with AWS, serverless architecture, Docker, and CI/CD.
 
 ---
 
-## 🤝 Connect
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile.;Let's+build+something+clean%2C+useful%2C+and+scalable.;Happy+coding+%F0%9F%9A%80" alt="Footer typing SVG" />
+
+<br />
 
 <div align="center">
 
@@ -260,13 +262,7 @@ Cloud-native deployment with AWS, serverless architecture, Docker, and CI/CD.
 
 </div>
 
----
-
-<div align="center">
-
-### Thanks for visiting my profile 👋
-
-I’m interested in building meaningful products, scalable systems, and AI-powered software that creates real business value.
+### 🤝 Let’s Connect
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,50:2563eb,100:7c3aed" />
 
