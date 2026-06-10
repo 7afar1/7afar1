@@ -1,41 +1,46 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7C3AED&height=180&section=header&text=Senior%20AI%20Full-Stack%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" />
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+clean%2C+scalable%2C+AI-powered+web+applications;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+AWS;Frontend+craftsmanship+%2B+backend+architecture" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0ea5e9,45:2563eb,100:7c3aed&text=Senior%20AI%20Full-Stack%20Developer&fontAlign=50&fontAlignY=38&fontColor=ffffff&fontSize=42&desc=Building%20clean,%20scalable,%20AI-powered%20products&descAlign=50&descAlignY=60&descSize=18" />
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=7afar1&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile views" />
-<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full--Stack-7c3aed?style=flat-square" alt="Focus badge" />
-<img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-22c55e?style=flat-square" alt="Open to remote roles" />
+<img src="https://img.shields.io/badge/Profile%20Views-10K%2B-0ea5e9?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Full%20Stack%20%7C%20DevOps-7c3aed?style=for-the-badge&labelColor=111827" />
+<img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-22c55e?style=for-the-badge&labelColor=111827" />
+
+<br />
+<br />
+
+<code>React</code> • <code>Next.js</code> • <code>TypeScript</code> • <code>Node.js</code> • <code>AWS</code> • <code>PostgreSQL</code> • <code>AI Workflows</code>
 
 </div>
 
 ---
 
+## 👋 About Me
+
 <table>
 <tr>
 <td width="58%" valign="top">
 
-## 👋 About Me
+I’m a **Senior AI Full-Stack Developer** with **7+ years of experience** designing, developing, and delivering modern web applications.
 
-I am a **Senior AI Full-Stack Developer** with **7+ years of experience** designing, developing, and integrating modern web applications.
+I specialize in building **clean, scalable, and user-focused products** across frontend, backend, cloud infrastructure, and AI-powered workflows.
 
-I specialize in building clean, scalable, and user-focused products using **React**, **Next.js**, **TypeScript**, **Node.js**, **Express.js**, and cloud-based services. I enjoy turning complex business requirements into reliable software, polished user experiences, and maintainable engineering systems.
+My work focuses on turning complex business requirements into reliable, production-ready software with strong attention to **performance, maintainability, security, and user experience**.
 
-My work focuses on:
+### What I Focus On
 
-- ⚡ Building high-performance frontend applications
-- 🧠 Integrating AI-powered workflows and automation
-- 🔐 Designing secure, scalable backend APIs
-- ☁️ Deploying cloud-ready applications with modern DevOps practices
-- 🤝 Collaborating with teams to deliver reliable product features
+* ⚡ Building high-performance frontend applications with **React, Next.js, and TypeScript**
+* 🧠 Integrating **AI-powered workflows**, automation, and intelligent product features
+* 🔐 Designing secure, scalable backend APIs with **Node.js, Express, and Fastify**
+* ☁️ Deploying cloud-ready applications using **AWS, Serverless, Docker, and CI/CD**
+* 🤝 Collaborating with teams to deliver reliable product features
 
 </td>
-<td width="42%" valign="top">
+<td width="42%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding animation" />
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="360" />
 
 </td>
 </tr>
@@ -43,41 +48,37 @@ My work focuses on:
 
 ---
 
-## 🚀 Core Expertise
+## 🚀 Featured Portfolio Project
+
+### Functional Medicine / Healthcare Platform
+
+A modern healthcare platform built to support practitioners and patients through secure content delivery, curriculum management, accountability workflows, progress tracking, and cloud-based media processing.
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🎨 Frontend
-- React / Next.js
-- TypeScript / JavaScript
-- Tailwind CSS / Material UI
-- Redux / Zustand
-- Responsive UI / UX
-- Performance optimization
+### Product Features
 
-</td>
-<td width="33%" valign="top">
-
-### ⚙️ Backend
-- Node.js / Express.js
-- NestJS / FastAPI
-- REST / GraphQL APIs
-- Authentication / OAuth
-- PostgreSQL / MongoDB
-- API integration
+* Practitioner and patient workflow management
+* Structured curriculum and content delivery
+* Progress tracking and accountability tools
+* Secure authentication and role-based access
+* Video/media delivery through cloud infrastructure
+* Scalable backend APIs and event-driven services
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### ☁️ Cloud & AI
-- AWS services
-- Docker / CI/CD
-- Serverless architecture
-- AI agents & automation
-- OpenAI / LLM workflows
-- Scalable deployment
+### Engineering Highlights
+
+* Built frontend with **React, Vite, and TypeScript**
+* Developed backend services using **Node.js, Fastify, and TypeScript**
+* Used **PostgreSQL on AWS RDS** for structured data
+* Integrated **AWS Cognito** for authentication
+* Delivered media using **S3, CloudFront, and MediaConvert**
+* Used **Lambda, API Gateway, SQS, and EventBridge**
+* Managed infrastructure with **AWS CDK**
 
 </td>
 </tr>
@@ -89,7 +90,25 @@ My work focuses on:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,fastapi,postgres,mongodb,mysql,graphql,aws,docker,githubactions,tailwind,materialui,vite,redux,git,github,vscode" />
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,redux,tailwind,materialui,figma" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,python,graphql,nestjs,php,laravel" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase" />
+
+### Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,nginx,linux,githubactions,vercel,netlify" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,webpack,babel,npm,pnpm,yarn" />
 
 </div>
 
@@ -97,79 +116,158 @@ My work focuses on:
 
 ## ✨ What I Bring
 
-```txt
-Clean Code        ████████████████████
-Product Thinking  ███████████████████░
-Frontend Quality  ████████████████████
-Backend APIs      ███████████████████░
-AI Integration    ██████████████████░░
-Cloud Deployment  █████████████████░░░
-```
+<table>
+<tr>
+<td align="center" width="33%">
 
-- ✅ Strong experience across the full product development lifecycle  
-- ✅ Ability to design frontend architecture and backend API systems  
-- ✅ Comfortable working with startups, remote teams, and fast-moving projects  
-- ✅ Focused on clean implementation, maintainability, and business impact  
-- ✅ Passionate about AI-enhanced development and automation  
+### 🧱 Clean Architecture
+
+Readable, maintainable, scalable code built for long-term product growth.
+
+<img src="https://img.shields.io/badge/Level-Expert-22c55e?style=for-the-badge&labelColor=111827" />
+
+</td>
+<td align="center" width="33%">
+
+### 🎯 Product Thinking
+
+Strong focus on business value, user experience, and practical implementation.
+
+<img src="https://img.shields.io/badge/Level-Strong-3b82f6?style=for-the-badge&labelColor=111827" />
+
+</td>
+<td align="center" width="33%">
+
+### ⚡ Frontend Quality
+
+Modern, responsive, high-performance interfaces using React and TypeScript.
+
+<img src="https://img.shields.io/badge/Level-Expert-22c55e?style=for-the-badge&labelColor=111827" />
+
+</td>
+</tr>
+
+<tr>
+<td align="center" width="33%">
+
+### 🔐 Backend APIs
+
+Secure, scalable APIs with clean service structure and strong data modeling.
+
+<img src="https://img.shields.io/badge/Level-Advanced-8b5cf6?style=for-the-badge&labelColor=111827" />
+
+</td>
+<td align="center" width="33%">
+
+### 🧠 AI Integration
+
+AI-assisted workflows, automation, intelligent features, and modern AI tooling.
+
+<img src="https://img.shields.io/badge/Level-Advanced-8b5cf6?style=for-the-badge&labelColor=111827" />
+
+</td>
+<td align="center" width="33%">
+
+### ☁️ Cloud Deployment
+
+Cloud-native deployment with AWS, serverless architecture, Docker, and CI/CD.
+
+<img src="https://img.shields.io/badge/Level-Advanced-8b5cf6?style=for-the-badge&labelColor=111827" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔥 Current Focus
-
-- Building AI-assisted web applications
-- Improving frontend architecture and design systems
-- Creating scalable backend services with Node.js and cloud platforms
-- Exploring serverless infrastructure, automation, and agent-based workflows
-
----
-
-## 📌 Featured Areas
+## 📊 Professional GitHub Analytics
 
 <div align="center">
 
-| Area | Tools & Technologies |
-|---|---|
-| **Frontend Engineering** | React, Next.js, TypeScript, Tailwind CSS |
-| **Backend Development** | Node.js, Express.js, NestJS, FastAPI |
-| **Database Design** | PostgreSQL, MongoDB, MySQL, Supabase |
-| **Cloud & DevOps** | AWS, Docker, GitHub Actions, CI/CD |
-| **AI Engineering** | AI Agents, LLM APIs, Automation Workflows |
-
-</div>
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=7afar1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=7c3aed&text_color=c9d1d9" alt="GitHub stats" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=7afar1&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=7c3aed&currStreakLabel=38bdf8" alt="GitHub streak" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile.;Let's+build+something+clean%2C+useful%2C+and+scalable.;Happy+coding+%F0%9F%9A%80" alt="Footer typing SVG" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=7afar1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=GitHub%20Performance" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=7afar1&theme=tokyonight&hide_border=true" />
 
 <br />
+<br />
 
-### 🤝 Let’s Connect
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7afar1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<!-- Replace these links with your real contact links -->
+<br />
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=7afar1&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 💼 Professional Snapshot
+
+<table>
+<tr>
+<td width="50%">
+
+### Engineering Strengths
+
+* Full-stack product development
+* Frontend architecture and UI systems
+* Backend API design and integrations
+* Cloud-native AWS infrastructure
+* AI-powered workflow integration
+* Database design and optimization
+
+</td>
+<td width="50%">
+
+### Working Style
+
+* Clean and maintainable implementation
+* Strong ownership from idea to deployment
+* Product-focused engineering mindset
+* Clear communication with teams
+* Fast adaptation to new tools and systems
+* Reliable delivery in remote environments
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌱 Currently Improving
+
+* Advanced AWS serverless architecture
+* AI agent workflows and automation systems
+* Scalable SaaS product architecture
+* DevOps, CI/CD, and infrastructure automation
+* High-performance frontend engineering
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
 <a href="https://github.com/7afar1">
-  <img src="https://img.shields.io/badge/GitHub-7afar1-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-Update%20Link-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+<a href="https://www.linkedin.com/in/elie-m-t-69b527393/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Update%20Link-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+<a href="mailto:tdev.eliem@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00D4FF&height=120&section=footer" width="100%" />
+---
+
+<div align="center">
+
+### Thanks for visiting my profile 👋
+
+I’m interested in building meaningful products, scalable systems, and AI-powered software that creates real business value.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0ea5e9,50:2563eb,100:7c3aed" />
+
+</div>
