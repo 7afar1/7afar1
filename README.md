@@ -259,22 +259,10 @@ Cloud-native deployment with AWS, serverless architecture, Docker, and CI/CD.
 
 ---
 
-## 🤝 Let’s Connect
-
 <div align="center">
 
-<a href="https://github.com/7afar1">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/elie-m-t-69b527393/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:tdev.eliem@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
-<br />
-<br />
+## 🤝 Let’s Connect
+<br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Thanks+for+visiting+my+profile.;Let's+build+something+clean,%20useful,%20and%20scalable.;Happy+coding+%F0%9F%9A%80" alt="Footer typing SVG" />
 
