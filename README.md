@@ -1,229 +1,175 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&color=%e812240&size=48&center=true&vCenter=true&width=1200&height=100&lines=Senior+AI+Full-Stack+Developer;Senior+Software+Engineer;Senior+DevOps+Engineer)]()
-<hr/>
-
-<p>
-  <img align="right" width="500" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611382bf04e5e70d777ebc7c2e988dad020877c25bf&rid=giphy.gif&ct=g" />
-<img align="right" src="https://readme-typing-svg.herokuapp.com/?lines=Don't%20worry%20%20if%20it%20doesn't%20work%20right;7+%2B%20years%20of%20hands-on%20experience;If%20everything%20did,%20you'd%20be%20out%20of%20a%20job&center=true&width=500&height=45" />
-&nbsp;&nbsp;Qualified Software Engineer with <strong>7+</strong> years of <strong>Experience</strong> in <strong>Analyzing</strong>, <strong>Designing</strong>, <strong>Developing</strong> and <strong>Integrating</strong> <strong>Front-End<strong> & <strong>Back-End<strong> based application .<br>
-&nbsp;&nbsp;<strong>Experience</strong> in developing web applications using <strong>JavaScript</strong>, <strong>TypeScript</strong>, <strong>NextJS</strong>, <strong>Tailwind CSS</strong>, <strong>NodeJS</strong> and <strong>ExpressJS<strong>.<br>
-&nbsp;&nbsp;A certified <strong>AI Agent</strong> systems administrator with a proven record in identifying operation problmes and providing innovative solutions.
-
-</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-<img align="left" alt="GIF" src="techstack.gif" width="260px">
-
-### 🛠️ Technical Skills
-
-- 🌱 **Frontend**: React, Next.js, Web3.js, Angular, Vue, Material UI, TailwindCSS  
-- 🔭 **Backend**: Node.js, CI, Laravel, Django, Flask, Express, NestJS, PHP  
-- 📱 **Mobile Development**: Android, React Native, Ionic, Flutter  
-- 📂 **Database**: MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, Supabase  
-- 💻 **Programming Languages**: HTML, JavaScript, TypeScript, Python, PHP, C++, C#, Go  
-- 🔥 **CMS Platforms**: WordPress, Shopify, Wix, Framer, Webflow  
-- ⛓️ **Blockchain**: Solidity, Ethereum, Web3.js, Truffle, IPFS,  Solana, Cosmos SDK  
-- 🎮 **Game Development**: Unity, Unreal Engine, Cocos2d, Game Maker Studio, Three.js 
-
-### 🚧 Current Projects
-- 🍃 RESTful Web Services & Web Services with Python
-- 🔗 Third Party API Integration & OAuth
-- 🎨 Angular 𒑰 Angular Material 𒑰 React 𒑰 Next.js
-- 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
-- 
-
-### 🌱 What I'm boosting
-- 🛠 AWS Cloud Serivces 𒑰 Serverless 𒑰 Terraform
-- 📔 Swagger API Documentation
-- 🎩 DevOps 𒑰 CI/CD
-
-
-<!-- <h3 align="left">🛎 Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ericvale0128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ericvale0128" height="30" width="40" /></a>
-<a href="https://dev.to/ericvale0128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ericvale0128" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/ericvale0128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ericvale0128" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17471364" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17471364" height="30" width="40" /></a>
-<a href="https://codesandbox.com/ericvale0128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ericvale0128" height="30" width="40" /></a>
-</p> -->
-
-<h3 align="left">🏷 Languages and Tools:</h3>
-<table align="center">
-  <tr>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="NextJS" />
-      <br>NextJS
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
-      <br>NodeJS
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="65" height="65" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
-      <br>MySQL
-    </td>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
-      <br>Webpack
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="116">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65" height="65" alt="cpp" />
-      <br>C++
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=selenium" width="65" height="65" alt="Laravel" />
-      <br>Selenium
-    </td>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="65" height="65" alt="tensorflow" />
-      <br>Tensorflow
-    </td>
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=pytorch" width="65" height="65" alt="Laravel" />
-      <br>Pytorch
-    </td>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="nginx" width="65" height="65" />
-      <br>Nginx
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=fastapi" width="65" height="65" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>Github
-    </td>
-    <td align="center" width="116"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center"  width="116">
-        <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center"  width="116">
-        <img src="https://skillicons.dev/icons?i=rails" width="48" height="48" alt="Rails" />
-      <br>Rails
-    </td>
-    <td align="center"  width="116">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center"  width="116">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jQuery" />
-      <br>jQuery
-    </td>
-  </tr>
- <tr>
-      <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="MongoDB" />
-      <br>Go
-    </td>
-        <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=ruby" width="48" height="48" alt="Ruby" />
-      <br>Ruby
-      </td>
-      </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=php" width="48" height="48" alt="PHP" />
-      <br>PHP
-    </td>
-            <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
-      <br>VsCode
-    </td>
-              <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
-      <br>WordPress
-    </td>
-              <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=webflow" width="48" height="48" alt="Webflow" />
-      <br>Webflow
-    </td>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="48" height="48" />
-      <br>Sass
-    </td>
-    </td>
-    <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="MySQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
- </tr>
-</table>
-
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:7C3AED&height=180&section=header&text=Senior%20AI%20Full-Stack%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+clean%2C+scalable%2C+AI-powered+web+applications;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+AWS;Frontend+craftsmanship+%2B+backend+architecture" alt="Typing SVG" />
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=7afar1&label=Profile%20Views&color=38bdf8&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Full--Stack-7c3aed?style=flat-square" alt="Focus badge" />
+<img src="https://img.shields.io/badge/Open%20to-Remote%20Roles-22c55e?style=flat-square" alt="Open to remote roles" />
+
+</div>
 
 ---
 
-<!-- ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6667AB&center=true&vCenter=true&lines=A+%E2%AD%90++on+my+repo+is+appreciated!;Thanks+for+visiting+my+profile+%F0%9F%98%83;Happy+coding!+%F0%9F%9A%80) -->
+<table>
+<tr>
+<td width="58%" valign="top">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=28&pause=1000&center=true&width=435&lines=Thanks+for+visiting+my+profile+%F0%9F%98%83;Happy+coding!+%F0%9F%9A%80)](https://git.io/typing-svg)
+## 👋 About Me
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"><em>Let's connect and build the future together! 🚀 <em>
+I am a **Senior AI Full-Stack Developer** with **7+ years of experience** designing, developing, and integrating modern web applications.
+
+I specialize in building clean, scalable, and user-focused products using **React**, **Next.js**, **TypeScript**, **Node.js**, **Express.js**, and cloud-based services. I enjoy turning complex business requirements into reliable software, polished user experiences, and maintainable engineering systems.
+
+My work focuses on:
+
+- ⚡ Building high-performance frontend applications
+- 🧠 Integrating AI-powered workflows and automation
+- 🔐 Designing secure, scalable backend APIs
+- ☁️ Deploying cloud-ready applications with modern DevOps practices
+- 🤝 Collaborating with teams to deliver reliable product features
+
+</td>
+<td width="42%" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding animation" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Core Expertise
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🎨 Frontend
+- React / Next.js
+- TypeScript / JavaScript
+- Tailwind CSS / Material UI
+- Redux / Zustand
+- Responsive UI / UX
+- Performance optimization
+
+</td>
+<td width="33%" valign="top">
+
+### ⚙️ Backend
+- Node.js / Express.js
+- NestJS / FastAPI
+- REST / GraphQL APIs
+- Authentication / OAuth
+- PostgreSQL / MongoDB
+- API integration
+
+</td>
+<td width="33%" valign="top">
+
+### ☁️ Cloud & AI
+- AWS services
+- Docker / CI/CD
+- Serverless architecture
+- AI agents & automation
+- OpenAI / LLM workflows
+- Scalable deployment
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,fastapi,postgres,mongodb,mysql,graphql,aws,docker,githubactions,tailwind,materialui,vite,redux,git,github,vscode" />
 
 </div>
+
+---
+
+## ✨ What I Bring
+
+```txt
+Clean Code        ████████████████████
+Product Thinking  ███████████████████░
+Frontend Quality  ████████████████████
+Backend APIs      ███████████████████░
+AI Integration    ██████████████████░░
+Cloud Deployment  █████████████████░░░
+```
+
+- ✅ Strong experience across the full product development lifecycle  
+- ✅ Ability to design frontend architecture and backend API systems  
+- ✅ Comfortable working with startups, remote teams, and fast-moving projects  
+- ✅ Focused on clean implementation, maintainability, and business impact  
+- ✅ Passionate about AI-enhanced development and automation  
+
+---
+
+## 🔥 Current Focus
+
+- Building AI-assisted web applications
+- Improving frontend architecture and design systems
+- Creating scalable backend services with Node.js and cloud platforms
+- Exploring serverless infrastructure, automation, and agent-based workflows
+
+---
+
+## 📌 Featured Areas
+
+<div align="center">
+
+| Area | Tools & Technologies |
+|---|---|
+| **Frontend Engineering** | React, Next.js, TypeScript, Tailwind CSS |
+| **Backend Development** | Node.js, Express.js, NestJS, FastAPI |
+| **Database Design** | PostgreSQL, MongoDB, MySQL, Supabase |
+| **Cloud & DevOps** | AWS, Docker, GitHub Actions, CI/CD |
+| **AI Engineering** | AI Agents, LLM APIs, Automation Workflows |
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=7afar1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=7c3aed&text_color=c9d1d9" alt="GitHub stats" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=7afar1&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=7c3aed&currStreakLabel=38bdf8" alt="GitHub streak" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile.;Let's+build+something+clean%2C+useful%2C+and+scalable.;Happy+coding+%F0%9F%9A%80" alt="Footer typing SVG" />
+
+<br />
+
+### 🤝 Let’s Connect
+
+<!-- Replace these links with your real contact links -->
+<a href="https://github.com/7afar1">
+  <img src="https://img.shields.io/badge/GitHub-7afar1-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-Update%20Link-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Portfolio-Update%20Link-38BDF8?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
+</a>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00D4FF&height=120&section=footer" width="100%" />
