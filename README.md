@@ -14,8 +14,6 @@
 <br />
 <br />
 
-<code>React</code> • <code>Next.js</code> • <code>TypeScript</code> • <code>Node.js</code> • <code>Fastify</code> • <code>PostgreSQL</code> • <code>AWS</code> • <code>AI Workflows</code>
-
 </div>
 
 ---
